@@ -1,0 +1,24 @@
+{
+  "name": "@sbq580/nodejs",
+  "version": "1.0.0",
+  "description": "nodejsprojects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shabiq Hazarika",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbq580/nodejsprojects.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "projects"
+  ],
+  "bugs": {
+    "url": "https://github.com/sbq580/nodejsprojects/issues"
+  },
+  "homepage": "https://github.com/sbq580/nodejsprojects#readme"
+}
